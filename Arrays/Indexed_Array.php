@@ -1,5 +1,10 @@
 <?php
-// Class for Programs on Indexed Array
+
+/**
+ * Author -> Arafath Baig
+ * PHP Version -> 8.0.9
+ * Class for Programs of Indexed Array
+ */
 class IndexedArray
 {
     public $indexedArray = array();
